@@ -1,0 +1,178 @@
+replace_ids,old_rivals_name,new_fortnite_file,category,description
+17138490999,heal sfx -> levelup,heal_sfx_fortnite_bandage,sound,Звук исцеления -> хруст бинта/аптечки Fortnite
+103035811146294,map select -> click,ui_click_fortnite,sound,Клик UI -> щелчок меню Fortnite
+16810041280,win -> villager yes,victory_royale_jingle,sound,Победа -> Victory Royale джингл
+16810321565,lose -> villager no,eliminated_sfx,sound,Поражение -> звук 'You have been eliminated'
+16537337310;16537449730,all heads -> orb pickup,loot_pickup_sfx,sound,Подбор всех голов -> подбор лута
+17826470563,countdown -> note pling,countdown_beep,sound,Отсчёт -> бип отсчёта матча
+15109829804,headshot -> silverfish kill sfx,headshot_marker_sfx,sound,Хедшот -> хедшот маркер Fortnite
+7658055825,arena -> buld,build_place_sfx,sound,Арена/построение -> звук постройки стены
+18221725850;18239670056;18221725850;18221726246,win theme,victory_theme_loop,sound,Тема победы -> Victory Royale тема
+18239670367,lose theme,defeat_stinger,sound,Тема поражения
+17175092502;17094014569,streak icon sfx -> blaze powder,elim_streak_sfx,sound,Звук серии устранений
+99115398611290,self snitching -> note pling,self_ping_sfx,sound,Самооповещение
+8483887957,ding -> chicken say,notification_ding,sound,Дзинь-уведомление
+6384899588,intro theme -> menu music,lobby_intro_theme,sound,Вступительная тема лобби
+17697682466;17733314783,lobby music -> menu music,lobby_music_loop,sound,Музыка лобби (петля)
+177266782,click -> wood click,button_click_alt,sound,Альт. звук клика
+18525513345,matchmaking -> note bd,matchmaking_loop,sound,Поиск матча
+13110130082,hitmarker -> successful hit,hitmarker_sfx,sound,Хитмаркер попадания
+17467242617,sudden death -> enderdragon growl,storm_surge_warning,sound,Внезапная смерть -> предупреждение о шторме
+17016581922,elim -> zombie death,elimination_sfx,sound,Звук устранения противника
+14812965418,molotov idle -> fire loop,fire_trap_idle_loop,sound,Огонь (петля) -> огненная ловушка
+14812827622,molotov impact -> fire ignite,fire_ignite_sfx,sound,Воспламенение
+13455969017,rpg explosion -> tnt explode,rocket_explosion_sfx,sound,Взрыв ракеты Fortnite
+16812389263,molotov extinguish -> fizz,fire_extinguish_sfx,sound,Тушение огня
+114274252176516,portal ambience -> portal loop,rift_ambience_loop,sound,Портал/разлом - амбиент
+81610952487049,portal exit -> portal travel,rift_travel_sfx,sound,Прыжок через разлом
+17259538274,queue countdown -> note pling,queue_countdown_beep,sound,Отсчёт очереди
+17769583566,reward notification -> pop,reward_pop_sfx,sound,Награда получена
+18221897857,gameresult reveal -> wither spawn,results_reveal_sfx,sound,Показ результатов матча
+106551800007995,equipment whoosh -> bow draw,equip_whoosh_sfx,sound,Свист снаряжения
+114467311328776,oob warning -> enderman idle,storm_damage_warning,sound,Предупреждение об уроне от шторма
+13160401062,fists attack -> player swing strong,pickaxe_swing_sfx,sound,Удар киркой
+85163949920258,jumppad placement -> slime block place,launchpad_place_sfx,sound,Установка трамплина
+17835965985,jumppad bounce -> slime block jump,launchpad_bounce_sfx,sound,Прыжок на трамплине
+70643163489676,rank change -> anvil land,rank_change_sfx,sound,Изменение ранга
+91547731028928,demote -> anvil break,rank_demote_sfx,sound,Понижение ранга
+138975587469438,promote -> levelup,rank_promote_sfx,sound,Повышение ранга
+17026600996,matchpoint -> anvil land,matchpoint_sfx,sound,Матчпоинт
+16530229616,kill1 -> zombie hurt,kill_sfx_1,sound,Звук убийства вариант 1
+16530229541,kill2 -> skeleton death,kill_sfx_2,sound,Звук убийства вариант 2
+16530229695,kill3 -> explode,kill_sfx_3,sound,Звук убийства вариант 3
+17838290166,x icon -> red x,icon_close_x,icon,Крестик закрытия
+17619444538,close icon -> red x,icon_close_alt,icon,Крестик закрытия (альт)
+108220438104376,x icon2 -> red x,icon_close_x2,icon,Крестик закрытия 2
+17838317115,plus icon -> green plus,icon_plus,icon,Плюс
+17562685319,back icon -> arrow left,icon_arrow_back,icon,Стрелка назад
+113844621753627,next icon -> arrow right,icon_arrow_next,icon,Стрелка вперёд
+17229230506,lock icon -> padlock,icon_lock,icon,Замок (заблокировано)
+18175187129,key icon -> gold key,icon_key_1,icon,Ключ вариант 1
+17495953455,key icon2 -> gold key,icon_key_2,icon,Ключ вариант 2
+17498605048,exit icon -> iron door,icon_exit_door,icon,Выход
+14641612286,setting icon -> gear,icon_settings_1,icon,Настройки вариант 1
+17619445191,cog icon -> gear,icon_settings_2,icon,Настройки вариант 2 (шестерня)
+13733474711,save icon -> chest,icon_save_chest,icon,Сохранить -> сундук с лутом
+135846354277966,region icon -> map,icon_region_map,icon,Регион -> карта
+12343093905,servers icon -> beacon,icon_servers_beacon,icon,Серверы -> сигнальная вышка
+17175095665,trophy icon -> gold trophy,icon_trophy,icon,Кубок
+17736782213,leaderboard eliminations -> diamond sword,icon_leaderboard_elims,icon,Иконка устранений в таблице лидеров
+132073690319347,rarity icon -> gold star,icon_rarity_star,icon,Редкость -> звезда
+102193196101741,favorited icon -> emerald,icon_favorite,icon,Избранное
+17772690718,task completed -> checkmark,icon_task_complete,icon,Задача выполнена
+18457336026,book icon -> minecraft book,icon_book,icon,Книга (баттлпасс/задания)
+17619445009,scroll icon -> writable book,icon_scroll,icon,Свиток/блокнот
+18525954682,duels icon -> crossed swords,icon_duels,icon,Дуэли -> скрещенные кирки
+77908042044589,spectate icon -> pixel eye,icon_spectate_eye,icon,Наблюдение
+17704137194,teammate icon -> two figures,icon_teammate,icon,Союзник
+17619445340,basket icon -> wicker basket,icon_basket,icon,Корзина/инвентарь
+16802957270,elim icon -> diamond sword,icon_elim_pickaxe,icon,Иконка устранения -> кирка
+8276600102,hp icon -> minecraft heart,icon_hp_heart,icon,Иконка здоровья
+126928245743331,killfeed headshot -> skull,icon_killfeed_headshot,icon,Хедшот в киллфиде -> череп
+81461991645938,lvl icon -> lvl_eye,icon_level,icon,Уровень
+99135525400251,gamemode end -> ender eye,icon_gamemode_end,icon,Конец режима игры
+106623367501544;131795064007344;73543520622815,bronze -> wood sword,rank_bronze,icon,Ранг Бронза
+80716950169934,silver 1 -> stone sword,rank_silver_1,icon,Ранг Серебро 1
+136100661820261,silver 2 -> stone sword,rank_silver_2,icon,Ранг Серебро 2
+107898816876115,silver 3 -> stone sword,rank_silver_3,icon,Ранг Серебро 3
+134520747948636,gold 1 -> iron sword,rank_gold_1,icon,Ранг Золото 1
+114166096331502,gold 2 -> iron sword,rank_gold_2,icon,Ранг Золото 2
+90039594400813,gold 3 -> iron sword,rank_gold_3,icon,Ранг Золото 3
+133903971285645,plat 1 -> platinum1,rank_platinum_1,icon,Ранг Платина 1
+82834564754747,plat 2 -> platinum2,rank_platinum_2,icon,Ранг Платина 2
+73345783863790,plat 3 -> platinum3,rank_platinum_3,icon,Ранг Платина 3
+113997689031026,diam 1 -> diamond,rank_diamond_1,icon,Ранг Алмаз 1
+88059506918419,diam 2 -> diamond2,rank_diamond_2,icon,Ранг Алмаз 2
+112183171942172,diam 3 -> diamond3,rank_diamond_3,icon,Ранг Алмаз 3
+104871954739030,o1 -> emerald,rank_elite_1,icon,Ранг Элита 1
+109012386782238,o2 -> ender eye,rank_elite_2,icon,Ранг Элита 2
+127982903682334,o3 -> nether star,rank_elite_3,icon,Ранг Элита 3
+133793956251748,arch (top) -> archnemesis,rank_arch_top,icon,Топ-ранг Архинемезида
+116941545385923,nem (top standard) -> nemesis,rank_nemesis,icon,Ранг Немезида
+13220167337,item background 1 -> mc slot grey,slot_bg_common,icon,Фон слота - обычный (серый)
+13188242420,item background 2 -> mc slot red,slot_bg_legendary,icon,Фон слота - легендарный (красный)
+13220167472,item background 3 -> mc slot blue,slot_bg_rare,icon,Фон слота - редкий (синий)
+13188153054,item background 4 -> mc slot green,slot_bg_uncommon,icon,Фон слота - необычный (зелёный)
+13188242287,item background 5 -> mc slot gold,slot_bg_epic,icon,Фон слота - эпический (золотой)
+133917828562858,chickn -> chicken texture,tex_loot_llama,texture,Текстура курицы -> текстура ламы-лута
+2108482005;14147881792;135908632589654;84214501374682;10196550937;12261809766,SBK sky,sky_battle_bus_01,texture,Скайбокс 1 -> небо с автобусом
+2108545280;10196550667;14147882149;103020541883227;89972436184102;12261813110,SDN sky,sky_battle_bus_02,texture,Скайбокс 2
+14147883091;135908632589654;84214501374682;2108482395;12261809766;10196550128,SLF sky,sky_battle_bus_03,texture,Скайбокс 3
+14147882405;135908632589654;84214501374682;2108482542;12261809766;10196549902,SRT sky,sky_battle_bus_04,texture,Скайбокс 4
+14147881297;72960281658487;92138082970751;2108482676;10196567794;12261813678,SUP sky,sky_storm_eye,texture,Скайбокс 5 -> глаз шторма
+14147882761;12261809766;135908632589654;84214501374682;10196550367;2108482231,SFT sky,sky_storm_circle,texture,Скайбокс 6 -> кольцо шторма
+121503061771505,incubatron -> egg texture,tex_supply_drop,texture,Текстура яйца -> текстура ящика снабжения
+13854780213,logo g -> logorivals,logo_pack_main,texture,Главный логотип пака
+17803962335,logo -> welcome,logo_welcome_screen,texture,Логотип на приветственном экране
+136887158756561,remove map pattern,(no file - remove rule),skip,Удаление паттерна карты (без файла)
+13854780042,remove the n,(no file - remove rule),skip,Удаление буквы (без файла)
+17813065011;17813065464;12099785239,remove ambience on maps,(no file - remove rule),skip,Отключение амбиента карт (без файла)
+108088064658436,map preview Arena -> minecraft cave arena,map_preview_arena,texture,Превью карты арены
+16919463811,smoke1 -> mc smoke particle,particle_smoke,texture,Текстура частицы дыма
+13482969632,sparkle -> mc sparkle particle,particle_sparkle,texture,Текстура частицы блеска
+14200300110,tex fire06 -> mc fire particle,particle_fire,texture,Текстура частицы огня
+13853836511,damage indicator -> red arrow,icon_damage_indicator,icon,Индикатор урона
+12187342816,font Rubik-Light -> Minecraft,font_burbank_light,font,Шрифт Light -> Burbank Small (стиль Fortnite)
+12187288714,font Rubik-Regular -> Minecraft,font_burbank_regular,font,Шрифт Regular
+12187271237,font Rubik-Medium -> Minecraft,font_burbank_medium,font,Шрифт Medium
+12187320363,font Rubik-SemiBold -> Minecraft Bold,font_burbank_semibold,font,Шрифт SemiBold
+12187303601,font Rubik-Bold -> Minecraft Bold,font_burbank_bold,font,Шрифт Bold
+12187262242,font Rubik-ExtraBold -> Minecraft Bold,font_burbank_extrabold,font,Шрифт ExtraBold
+12187280273,font Rubik-Black -> Minecraft Bold,font_burbank_black,font,Шрифт Black
+12187354260,font Rubik-MediumItalic -> Minecraft Bold,font_burbank_medium_italic,font,Шрифт MediumItalic
+12187341500,font Rubik-BoldItalic -> Minecraft Bold,font_burbank_bold_italic,font,Шрифт BoldItalic
+12187320081,font Rubik-BlackItalic -> Minecraft Bold,font_burbank_black_italic,font,Шрифт BlackItalic
+12187323909,font Rubik-ExtraBoldItalic -> Minecraft Bold,font_burbank_extrabold_italic,font,Шрифт ExtraBoldItalic
+13270206222,sniper_shoot1,wp_sniper_shoot1,sound,Выстрел снайперки вариант 1
+13270206087,sniper_shoot2,wp_sniper_shoot2,sound,Выстрел снайперки вариант 2
+13455395017,sniper_reload_bolt_back,wp_sniper_bolt_back,sound,Затвор снайперки назад
+13455394948,sniper_reload_bolt_forward,wp_sniper_bolt_forward,sound,Затвор снайперки вперёд
+13455395090,sniper_bullet_eject,wp_sniper_eject,sound,Выброс гильзы снайперки
+13160400990,handgun_equip,wp_pistol_equip,sound,Достать пистолет
+13158246944,handgun_inspect_slide,wp_pistol_inspect_slide,sound,Осмотр - затвор пистолета
+13158330666,handgun_mag_in,wp_pistol_mag_in,sound,Магазин вставлен
+13158330555,handgun_mag_out,wp_pistol_mag_out,sound,Магазин извлечён
+13158330479,handgun_shoot_final,wp_pistol_shoot_final,sound,Последний выстрел (пустая обойма)
+13158610792,handgun_slide5,wp_pistol_slide,sound,Затвор пистолета
+14240943641,revolver_reload_chamber_spin,wp_revolver_spin,sound,Барабан револьвера крутится
+14240944488,revolver_reload_chamber_unload,wp_revolver_unload,sound,Разрядка барабана
+14240944327,revolver_reload_insert,wp_revolver_insert,sound,Вставка патрона в барабан
+14417089307,revolver_shoot1_fix,wp_revolver_shoot1,sound,Выстрел револьвера 1
+14417089152,revolver_shoot2_fix,wp_revolver_shoot2,sound,Выстрел револьвера 2
+14000023581,katana_attack1,wp_katana_attack1,sound,Удар катаной 1
+14000023392,katana_attack2,wp_katana_attack2,sound,Удар катаной 2
+14776414133,katana_deflect_metal,wp_katana_deflect,sound,Отскок/блок металла
+14000093824,katana_whoosh,wp_katana_whoosh,sound,Свист катаны
+111386960247596,assaultrifle_shoot1,wp_ar_shoot1,sound,Выстрел автомата
+13682898881,chainsaw_attack3,wp_chainsaw_attack,sound,Удар бензопилой
+13682223944,chainsaw_attack_whoosh2,wp_chainsaw_whoosh,sound,Свист бензопилы
+13645858825,chainsaw_equip_pull,wp_chainsaw_pull_start,sound,Запуск бензопилы (рывок)
+13646484249,chainsaw_idle_car,wp_chainsaw_idle,sound,Холостой ход бензопилы
+13505411336,medkit_use_bandage_apply,wp_medkit_bandage_apply,sound,Наложение бинта
+13505411414,medkit_use_bandage_rip,wp_medkit_bandage_rip,sound,Срыв упаковки бинта
+13456860578,medkit_inspect_spin1,wp_medkit_inspect,sound,Осмотр аптечки
+13235979356,shotgun_reload_shell8,wp_shotgun_reload_shell,sound,Перезарядка дробовика (патрон)
+14522129645,grenade_pinpull1,wp_grenade_pinpull,sound,Выдёргивание кольца гранаты
+14522189766,grenade_throw,wp_grenade_throw,sound,Бросок гранаты
+13455968895,rpg_shoot,wp_rocket_shoot,sound,Выстрел из ракетницы
+13160400909,knife_attack2,wp_knife_attack,sound,Удар ножом
+13160326139,knife_equip_catch,wp_knife_equip,sound,Достать нож
+16526184730,uzi_shoot_notail1,wp_smg_shoot1,sound,Выстрел пистолет-пулемёта 1
+16526184265,uzi_shoot_notail3,wp_smg_shoot2,sound,Выстрел пистолет-пулемёта 2
+13682532502,bow_string_draw,wp_bow_draw,sound,Натяжение тетивы лука
+13682183816,bow_reload_draw_arrow,wp_bow_draw_arrow,sound,Достать стрелу
+82715240396507,crossbow_shoot1,wp_crossbow_shoot,sound,Выстрел арбалета
+14111617408,scythe_attack1,wp_scythe_attack1,sound,Удар косой 1
+14111617269,scythe_attack2,wp_scythe_attack2,sound,Удар косой 2
+17246880027,minigun_shooting,wp_minigun_shoot,sound,Стрельба миниганом
+17251084003,minigun_winding4,wp_minigun_winding,sound,Разгон миниганом
+17803360572,shotgun_balloonshotgun_squeak,wp_misc_squeak,sound,Скрип (доп. элемент)
+17167035482,flaregun_explosion,wp_flaregun_explosion,sound,Взрыв сигнальной ракеты
+13245117413,flaregun_shoot_distant,wp_flaregun_shoot,sound,Выстрел сигнальной ракетницы
+17266070755,raygun_shoot1,wp_raygun_shoot,sound,Выстрел бластера
+17245106793,raygun_explosion,wp_raygun_explosion,sound,Взрыв от бластера
+18429092842,freezeray_shoot1,wp_freezeray_shoot,sound,Выстрел заморозки
+13160489311,fists_inspect2,wp_fists_inspect,sound,Осмотр кулаков
+73325703605178,warhorn_use1,wp_warhorn_use,sound,Звук боевого рога
+94684661380385,energypistols_voidpistols_shoot1,wp_energy_pistol_shoot,sound,Выстрел энергопистолета
+101759165907297,daggers_attack3,wp_dagger_attack,sound,Удар кинжалом
