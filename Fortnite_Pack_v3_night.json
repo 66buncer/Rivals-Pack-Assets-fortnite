@@ -1,0 +1,1634 @@
+{
+  "replacement_rules": [
+    {
+      "name": "heal sfx -> levelup [FN] -> heal_sfx_fortnite_bandage",
+      "replace_ids": [
+        17138490999
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/heal_sfx_fortnite_bandage.ogg"
+    },
+    {
+      "name": "map select -> click [FN] -> ui_click_fortnite",
+      "replace_ids": [
+        103035811146294
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/ui_click_fortnite.ogg"
+    },
+    {
+      "name": "win -> villager yes [FN] -> victory_royale_jingle",
+      "replace_ids": [
+        16810041280
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/victory_royale_jingle.ogg"
+    },
+    {
+      "name": "lose -> villager no [FN] -> eliminated_sfx",
+      "replace_ids": [
+        16810321565
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/eliminated_sfx.ogg"
+    },
+    {
+      "name": "all heads -> orb pickup [FN] -> loot_pickup_sfx",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/loot_pickup_sfx.ogg"
+    },
+    {
+      "name": "countdown -> note pling [FN] -> countdown_beep",
+      "replace_ids": [
+        17826470563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/countdown_beep.ogg"
+    },
+    {
+      "name": "headshot -> silverfish kill sfx [FN] -> headshot_marker_sfx",
+      "replace_ids": [
+        15109829804
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/headshot_marker_sfx.ogg"
+    },
+    {
+      "name": "arena -> buld [FN] -> build_place_sfx",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/build_place_sfx.ogg"
+    },
+    {
+      "name": "win theme [FN] -> victory_theme_loop",
+      "replace_ids": [
+        18221725850,
+        18239670056,
+        18221725850,
+        18221726246
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/victory_theme_loop.ogg"
+    },
+    {
+      "name": "lose theme [FN] -> defeat_stinger",
+      "replace_ids": [
+        18239670367
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/defeat_stinger.ogg"
+    },
+    {
+      "name": "streak icon sfx -> blaze powder [FN] -> elim_streak_sfx",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/elim_streak_sfx.ogg"
+    },
+    {
+      "name": "self snitching -> note pling [FN] -> self_ping_sfx",
+      "replace_ids": [
+        99115398611290
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/self_ping_sfx.ogg"
+    },
+    {
+      "name": "ding -> chicken say [FN] -> notification_ding",
+      "replace_ids": [
+        8483887957
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/notification_ding.ogg"
+    },
+    {
+      "name": "intro theme -> menu music [FN] -> lobby_intro_theme",
+      "replace_ids": [
+        6384899588
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/lobby_intro_theme.ogg"
+    },
+    {
+      "name": "lobby music -> menu music [FN] -> lobby_music_loop",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/lobby_music_loop.ogg"
+    },
+    {
+      "name": "click -> wood click [FN] -> button_click_alt",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/button_click_alt.ogg"
+    },
+    {
+      "name": "matchmaking -> note bd [FN] -> matchmaking_loop",
+      "replace_ids": [
+        18525513345
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/matchmaking_loop.ogg"
+    },
+    {
+      "name": "hitmarker -> successful hit [FN] -> hitmarker_sfx",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/hitmarker_sfx.ogg"
+    },
+    {
+      "name": "sudden death -> enderdragon growl [FN] -> storm_surge_warning",
+      "replace_ids": [
+        17467242617
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/storm_surge_warning.ogg"
+    },
+    {
+      "name": "elim -> zombie death [FN] -> elimination_sfx",
+      "replace_ids": [
+        17016581922
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/elimination_sfx.ogg"
+    },
+    {
+      "name": "molotov idle -> fire loop [FN] -> fire_trap_idle_loop",
+      "replace_ids": [
+        14812965418
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/fire_trap_idle_loop.ogg"
+    },
+    {
+      "name": "molotov impact -> fire ignite [FN] -> fire_ignite_sfx",
+      "replace_ids": [
+        14812827622
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/fire_ignite_sfx.ogg"
+    },
+    {
+      "name": "rpg explosion -> tnt explode [FN] -> rocket_explosion_sfx",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/rocket_explosion_sfx.ogg"
+    },
+    {
+      "name": "molotov extinguish -> fizz [FN] -> fire_extinguish_sfx",
+      "replace_ids": [
+        16812389263
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/fire_extinguish_sfx.ogg"
+    },
+    {
+      "name": "portal ambience -> portal loop [FN] -> rift_ambience_loop",
+      "replace_ids": [
+        114274252176516
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/rift_ambience_loop.ogg"
+    },
+    {
+      "name": "portal exit -> portal travel [FN] -> rift_travel_sfx",
+      "replace_ids": [
+        81610952487049
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/rift_travel_sfx.ogg"
+    },
+    {
+      "name": "queue countdown -> note pling [FN] -> queue_countdown_beep",
+      "replace_ids": [
+        17259538274
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/queue_countdown_beep.ogg"
+    },
+    {
+      "name": "reward notification -> pop [FN] -> reward_pop_sfx",
+      "replace_ids": [
+        17769583566
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/reward_pop_sfx.ogg"
+    },
+    {
+      "name": "gameresult reveal -> wither spawn [FN] -> results_reveal_sfx",
+      "replace_ids": [
+        18221897857
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/results_reveal_sfx.ogg"
+    },
+    {
+      "name": "equipment whoosh -> bow draw [FN] -> equip_whoosh_sfx",
+      "replace_ids": [
+        106551800007995
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/equip_whoosh_sfx.ogg"
+    },
+    {
+      "name": "oob warning -> enderman idle [FN] -> storm_damage_warning",
+      "replace_ids": [
+        114467311328776
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/storm_damage_warning.ogg"
+    },
+    {
+      "name": "fists attack -> player swing strong [FN] -> pickaxe_swing_sfx",
+      "replace_ids": [
+        13160401062
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/pickaxe_swing_sfx.ogg"
+    },
+    {
+      "name": "jumppad placement -> slime block place [FN] -> launchpad_place_sfx",
+      "replace_ids": [
+        85163949920258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/launchpad_place_sfx.ogg"
+    },
+    {
+      "name": "jumppad bounce -> slime block jump [FN] -> launchpad_bounce_sfx",
+      "replace_ids": [
+        17835965985
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/launchpad_bounce_sfx.ogg"
+    },
+    {
+      "name": "rank change -> anvil land [FN] -> rank_change_sfx",
+      "replace_ids": [
+        70643163489676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/rank_change_sfx.ogg"
+    },
+    {
+      "name": "demote -> anvil break [FN] -> rank_demote_sfx",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/rank_demote_sfx.ogg"
+    },
+    {
+      "name": "promote -> levelup [FN] -> rank_promote_sfx",
+      "replace_ids": [
+        138975587469438
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/rank_promote_sfx.ogg"
+    },
+    {
+      "name": "matchpoint -> anvil land [FN] -> matchpoint_sfx",
+      "replace_ids": [
+        17026600996
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/matchpoint_sfx.ogg"
+    },
+    {
+      "name": "kill1 -> zombie hurt [FN] -> kill_sfx_1",
+      "replace_ids": [
+        16530229616
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/kill_sfx_1.ogg"
+    },
+    {
+      "name": "kill2 -> skeleton death [FN] -> kill_sfx_2",
+      "replace_ids": [
+        16530229541
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/kill_sfx_2.ogg"
+    },
+    {
+      "name": "kill3 -> explode [FN] -> kill_sfx_3",
+      "replace_ids": [
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/kill_sfx_3.ogg"
+    },
+    {
+      "name": "x icon -> red x [FN] -> icon_close_x",
+      "replace_ids": [
+        17838290166
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_close_x.png"
+    },
+    {
+      "name": "close icon -> red x [FN] -> icon_close_alt",
+      "replace_ids": [
+        17619444538
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_close_alt.png"
+    },
+    {
+      "name": "x icon2 -> red x [FN] -> icon_close_x2",
+      "replace_ids": [
+        108220438104376
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_close_x2.png"
+    },
+    {
+      "name": "plus icon -> green plus [FN] -> icon_plus",
+      "replace_ids": [
+        17838317115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_plus.png"
+    },
+    {
+      "name": "back icon -> arrow left [FN] -> icon_arrow_back",
+      "replace_ids": [
+        17562685319
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/T_BuildMode_Prefab_Wall_Inactive_128.png"
+    },
+    {
+      "name": "next icon -> arrow right [FN] -> icon_arrow_next",
+      "replace_ids": [
+        113844621753627
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/T_BuildMode_Prefab_Wall_128.png"
+    },
+    {
+      "name": "lock icon -> padlock [FN] -> icon_lock",
+      "replace_ids": [
+        17229230506
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Safe-128.png"
+    },
+    {
+      "name": "key icon -> gold key [FN] -> icon_key_1",
+      "replace_ids": [
+        18175187129
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_key_1.png"
+    },
+    {
+      "name": "key icon2 -> gold key [FN] -> icon_key_2",
+      "replace_ids": [
+        17495953455
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_key_2.png"
+    },
+    {
+      "name": "exit icon -> iron door [FN] -> icon_exit_door",
+      "replace_ids": [
+        17498605048
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Privacy-64.png"
+    },
+    {
+      "name": "setting icon -> gear [FN] -> icon_settings_1",
+      "replace_ids": [
+        14641612286
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Nav-Armory-64.png"
+    },
+    {
+      "name": "cog icon -> gear [FN] -> icon_settings_2",
+      "replace_ids": [
+        17619445191
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Research-64.png"
+    },
+    {
+      "name": "save icon -> chest [FN] -> icon_save_chest",
+      "replace_ids": [
+        13733474711
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-StormChest-128.png"
+    },
+    {
+      "name": "region icon -> map [FN] -> icon_region_map",
+      "replace_ids": [
+        135846354277966
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Manage-All-128.png"
+    },
+    {
+      "name": "servers icon -> beacon [FN] -> icon_servers_beacon",
+      "replace_ids": [
+        12343093905
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Pylon-Building.png"
+    },
+    {
+      "name": "trophy icon -> gold trophy [FN] -> icon_trophy",
+      "replace_ids": [
+        17175095665
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Talented-Builder-128.png"
+    },
+    {
+      "name": "leaderboard eliminations -> diamond sword [FN] -> icon_leaderboard_elims",
+      "replace_ids": [
+        17736782213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_leaderboard_elims.png"
+    },
+    {
+      "name": "rarity icon -> gold star [FN] -> icon_rarity_star",
+      "replace_ids": [
+        132073690319347
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Vbuck%20Pile%204.png"
+    },
+    {
+      "name": "favorited icon -> emerald [FN] -> icon_favorite",
+      "replace_ids": [
+        102193196101741
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Xray-Vbucks.png"
+    },
+    {
+      "name": "task completed -> checkmark [FN] -> icon_task_complete",
+      "replace_ids": [
+        17772690718
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Research-64.png"
+    },
+    {
+      "name": "book icon -> minecraft book [FN] -> icon_book",
+      "replace_ids": [
+        18457336026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Collect-World-Explorer-128.png"
+    },
+    {
+      "name": "scroll icon -> writable book [FN] -> icon_scroll",
+      "replace_ids": [
+        17619445009
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_scroll.png"
+    },
+    {
+      "name": "duels icon -> crossed swords [FN] -> icon_duels",
+      "replace_ids": [
+        18525954682
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_duels.png"
+    },
+    {
+      "name": "spectate icon -> pixel eye [FN] -> icon_spectate_eye",
+      "replace_ids": [
+        77908042044589
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T_Icon_MagnifyingGlass.png"
+    },
+    {
+      "name": "teammate icon -> two figures [FN] -> icon_teammate",
+      "replace_ids": [
+        17704137194
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Survivor-64.png"
+    },
+    {
+      "name": "basket icon -> wicker basket [FN] -> icon_basket",
+      "replace_ids": [
+        17619445340
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Map-HUD%20Icons/T-Icon-Backpack-32.png"
+    },
+    {
+      "name": "elim icon -> diamond sword [FN] -> icon_elim_pickaxe",
+      "replace_ids": [
+        16802957270
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_elim_pickaxe.png"
+    },
+    {
+      "name": "hp icon -> minecraft heart [FN] -> icon_hp_heart",
+      "replace_ids": [
+        8276600102
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_hp_heart.png"
+    },
+    {
+      "name": "killfeed headshot -> skull [FN] -> icon_killfeed_headshot",
+      "replace_ids": [
+        126928245743331
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_killfeed_headshot.png"
+    },
+    {
+      "name": "lvl icon -> lvl_eye [FN] -> icon_level",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_level.png"
+    },
+    {
+      "name": "gamemode end -> ender eye [FN] -> icon_gamemode_end",
+      "replace_ids": [
+        99135525400251
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_gamemode_end.png"
+    },
+    {
+      "name": "bronze -> wood sword [FN] -> rank_bronze",
+      "replace_ids": [
+        106623367501544,
+        131795064007344,
+        73543520622815
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_bronze.png"
+    },
+    {
+      "name": "silver 1 -> stone sword [FN] -> rank_silver_1",
+      "replace_ids": [
+        80716950169934
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_silver_1.png"
+    },
+    {
+      "name": "silver 2 -> stone sword [FN] -> rank_silver_2",
+      "replace_ids": [
+        136100661820261
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_silver_2.png"
+    },
+    {
+      "name": "silver 3 -> stone sword [FN] -> rank_silver_3",
+      "replace_ids": [
+        107898816876115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_silver_3.png"
+    },
+    {
+      "name": "gold 1 -> iron sword [FN] -> rank_gold_1",
+      "replace_ids": [
+        134520747948636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_gold_1.png"
+    },
+    {
+      "name": "gold 2 -> iron sword [FN] -> rank_gold_2",
+      "replace_ids": [
+        114166096331502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_gold_2.png"
+    },
+    {
+      "name": "gold 3 -> iron sword [FN] -> rank_gold_3",
+      "replace_ids": [
+        90039594400813
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_gold_3.png"
+    },
+    {
+      "name": "plat 1 -> platinum1 [FN] -> rank_platinum_1",
+      "replace_ids": [
+        133903971285645
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_platinum_1.png"
+    },
+    {
+      "name": "plat 2 -> platinum2 [FN] -> rank_platinum_2",
+      "replace_ids": [
+        82834564754747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_platinum_2.png"
+    },
+    {
+      "name": "plat 3 -> platinum3 [FN] -> rank_platinum_3",
+      "replace_ids": [
+        73345783863790
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_platinum_3.png"
+    },
+    {
+      "name": "diam 1 -> diamond [FN] -> rank_diamond_1",
+      "replace_ids": [
+        113997689031026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_diamond_1.png"
+    },
+    {
+      "name": "diam 2 -> diamond2 [FN] -> rank_diamond_2",
+      "replace_ids": [
+        88059506918419
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_diamond_2.png"
+    },
+    {
+      "name": "diam 3 -> diamond3 [FN] -> rank_diamond_3",
+      "replace_ids": [
+        112183171942172
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_diamond_3.png"
+    },
+    {
+      "name": "o1 -> emerald [FN] -> rank_elite_1",
+      "replace_ids": [
+        104871954739030
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_elite_1.png"
+    },
+    {
+      "name": "o2 -> ender eye [FN] -> rank_elite_2",
+      "replace_ids": [
+        109012386782238
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_elite_2.png"
+    },
+    {
+      "name": "o3 -> nether star [FN] -> rank_elite_3",
+      "replace_ids": [
+        127982903682334
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_elite_3.png"
+    },
+    {
+      "name": "arch (top) -> archnemesis [FN] -> rank_arch_top",
+      "replace_ids": [
+        133793956251748
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_arch_top.png"
+    },
+    {
+      "name": "nem (top standard) -> nemesis [FN] -> rank_nemesis",
+      "replace_ids": [
+        116941545385923
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/rank_nemesis.png"
+    },
+    {
+      "name": "item background 1 -> mc slot grey [FN] -> slot_bg_common",
+      "replace_ids": [
+        13220167337
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/slot_bg_common.png"
+    },
+    {
+      "name": "item background 2 -> mc slot red [FN] -> slot_bg_legendary",
+      "replace_ids": [
+        13188242420
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/slot_bg_legendary.png"
+    },
+    {
+      "name": "item background 3 -> mc slot blue [FN] -> slot_bg_rare",
+      "replace_ids": [
+        13220167472
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/slot_bg_rare.png"
+    },
+    {
+      "name": "item background 4 -> mc slot green [FN] -> slot_bg_uncommon",
+      "replace_ids": [
+        13188153054
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/slot_bg_uncommon.png"
+    },
+    {
+      "name": "item background 5 -> mc slot gold [FN] -> slot_bg_epic",
+      "replace_ids": [
+        13188242287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/slot_bg_epic.png"
+    },
+    {
+      "name": "chickn -> chicken texture [FN] -> tex_loot_llama",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/tex_loot_llama.png"
+    },
+    {
+      "name": "SBK sky [FN] -> sky_battle_bus_01",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/sky_battle_bus_01.png"
+    },
+    {
+      "name": "SDN sky [FN] -> sky_battle_bus_02",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/sky_battle_bus_02.png"
+    },
+    {
+      "name": "SLF sky [FN] -> sky_battle_bus_03",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/sky_battle_bus_03.png"
+    },
+    {
+      "name": "SRT sky [FN] -> sky_battle_bus_04",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/sky_battle_bus_04.png"
+    },
+    {
+      "name": "SUP sky [FN] -> sky_storm_eye",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/sky_storm_eye.png"
+    },
+    {
+      "name": "SFT sky [FN] -> sky_storm_circle",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/sky_storm_circle.png"
+    },
+    {
+      "name": "incubatron -> egg texture [FN] -> tex_supply_drop",
+      "replace_ids": [
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Vbuck%20Pile%207.png"
+    },
+    {
+      "name": "logo g -> logorivals [FN] -> logo_pack_main",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Core%20Reperk.png"
+    },
+    {
+      "name": "logo -> welcome [FN] -> logo_welcome_screen",
+      "replace_ids": [
+        17803962335
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/logo_welcome_screen.png"
+    },
+    {
+      "name": "remove map pattern",
+      "replace_ids": [
+        136887158756561
+      ],
+      "mode": "remove",
+      "enabled": true
+    },
+    {
+      "name": "remove the n",
+      "replace_ids": [
+        13854780042
+      ],
+      "mode": "remove",
+      "enabled": true
+    },
+    {
+      "name": "remove ambience on maps",
+      "replace_ids": [
+        17813065011,
+        17813065464,
+        12099785239
+      ],
+      "mode": "remove",
+      "enabled": true
+    },
+    {
+      "name": "map preview Arena -> minecraft cave arena [FN] -> map_preview_arena",
+      "replace_ids": [
+        108088064658436
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/map_preview_arena.png"
+    },
+    {
+      "name": "smoke1 -> mc smoke particle [FN] -> particle_smoke",
+      "replace_ids": [
+        16919463811
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/particle_smoke.png"
+    },
+    {
+      "name": "sparkle -> mc sparkle particle [FN] -> particle_sparkle",
+      "replace_ids": [
+        13482969632
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/Fire.png"
+    },
+    {
+      "name": "tex fire06 -> mc fire particle [FN] -> particle_fire",
+      "replace_ids": [
+        14200300110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/textures/particle_fire.png"
+    },
+    {
+      "name": "damage indicator -> red arrow [FN] -> icon_damage_indicator",
+      "replace_ids": [
+        13853836511
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/icons/icon_damage_indicator.png"
+    },
+    {
+      "name": "font Rubik-Light -> Minecraft [FN] -> font_burbank_light",
+      "replace_ids": [
+        12187342816
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_light.ttf"
+    },
+    {
+      "name": "font Rubik-Regular -> Minecraft [FN] -> font_burbank_regular",
+      "replace_ids": [
+        12187288714
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_regular.ttf"
+    },
+    {
+      "name": "font Rubik-Medium -> Minecraft [FN] -> font_burbank_medium",
+      "replace_ids": [
+        12187271237
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_medium.ttf"
+    },
+    {
+      "name": "font Rubik-SemiBold -> Minecraft Bold [FN] -> font_burbank_semibold",
+      "replace_ids": [
+        12187320363
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_semibold.ttf"
+    },
+    {
+      "name": "font Rubik-Bold -> Minecraft Bold [FN] -> font_burbank_bold",
+      "replace_ids": [
+        12187303601
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_bold.ttf"
+    },
+    {
+      "name": "font Rubik-ExtraBold -> Minecraft Bold [FN] -> font_burbank_extrabold",
+      "replace_ids": [
+        12187262242
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_extrabold.ttf"
+    },
+    {
+      "name": "font Rubik-Black -> Minecraft Bold [FN] -> font_burbank_black",
+      "replace_ids": [
+        12187280273
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_black.ttf"
+    },
+    {
+      "name": "font Rubik-MediumItalic -> Minecraft Bold [FN] -> font_burbank_medium_italic",
+      "replace_ids": [
+        12187354260
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_medium_italic.ttf"
+    },
+    {
+      "name": "font Rubik-BoldItalic -> Minecraft Bold [FN] -> font_burbank_bold_italic",
+      "replace_ids": [
+        12187341500
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_bold_italic.ttf"
+    },
+    {
+      "name": "font Rubik-BlackItalic -> Minecraft Bold [FN] -> font_burbank_black_italic",
+      "replace_ids": [
+        12187320081
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_black_italic.ttf"
+    },
+    {
+      "name": "font Rubik-ExtraBoldItalic -> Minecraft Bold [FN] -> font_burbank_extrabold_italic",
+      "replace_ids": [
+        12187323909
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/fonts/font_burbank_extrabold_italic.ttf"
+    },
+    {
+      "name": "sniper_shoot1 [FN] -> wp_sniper_shoot1",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_sniper_shoot1.ogg"
+    },
+    {
+      "name": "sniper_shoot2 [FN] -> wp_sniper_shoot2",
+      "replace_ids": [
+        13270206087
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_sniper_shoot2.ogg"
+    },
+    {
+      "name": "sniper_reload_bolt_back [FN] -> wp_sniper_bolt_back",
+      "replace_ids": [
+        13455395017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_sniper_bolt_back.ogg"
+    },
+    {
+      "name": "sniper_reload_bolt_forward [FN] -> wp_sniper_bolt_forward",
+      "replace_ids": [
+        13455394948
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_sniper_bolt_forward.ogg"
+    },
+    {
+      "name": "sniper_bullet_eject [FN] -> wp_sniper_eject",
+      "replace_ids": [
+        13455395090
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_sniper_eject.ogg"
+    },
+    {
+      "name": "handgun_equip [FN] -> wp_pistol_equip",
+      "replace_ids": [
+        13160400990
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_pistol_equip.ogg"
+    },
+    {
+      "name": "handgun_inspect_slide [FN] -> wp_pistol_inspect_slide",
+      "replace_ids": [
+        13158246944
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_pistol_inspect_slide.ogg"
+    },
+    {
+      "name": "handgun_mag_in [FN] -> wp_pistol_mag_in",
+      "replace_ids": [
+        13158330666
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_pistol_mag_in.ogg"
+    },
+    {
+      "name": "handgun_mag_out [FN] -> wp_pistol_mag_out",
+      "replace_ids": [
+        13158330555
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_pistol_mag_out.ogg"
+    },
+    {
+      "name": "handgun_shoot_final [FN] -> wp_pistol_shoot_final",
+      "replace_ids": [
+        13158330479
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_pistol_shoot_final.ogg"
+    },
+    {
+      "name": "handgun_slide5 [FN] -> wp_pistol_slide",
+      "replace_ids": [
+        13158610792
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_pistol_slide.ogg"
+    },
+    {
+      "name": "revolver_reload_chamber_spin [FN] -> wp_revolver_spin",
+      "replace_ids": [
+        14240943641
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_revolver_spin.ogg"
+    },
+    {
+      "name": "revolver_reload_chamber_unload [FN] -> wp_revolver_unload",
+      "replace_ids": [
+        14240944488
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_revolver_unload.ogg"
+    },
+    {
+      "name": "revolver_reload_insert [FN] -> wp_revolver_insert",
+      "replace_ids": [
+        14240944327
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_revolver_insert.ogg"
+    },
+    {
+      "name": "revolver_shoot1_fix [FN] -> wp_revolver_shoot1",
+      "replace_ids": [
+        14417089307
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_revolver_shoot1.ogg"
+    },
+    {
+      "name": "revolver_shoot2_fix [FN] -> wp_revolver_shoot2",
+      "replace_ids": [
+        14417089152
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_revolver_shoot2.ogg"
+    },
+    {
+      "name": "katana_attack1 [FN] -> wp_katana_attack1",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_katana_attack1.ogg"
+    },
+    {
+      "name": "katana_attack2 [FN] -> wp_katana_attack2",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_katana_attack2.ogg"
+    },
+    {
+      "name": "katana_deflect_metal [FN] -> wp_katana_deflect",
+      "replace_ids": [
+        14776414133
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_katana_deflect.ogg"
+    },
+    {
+      "name": "katana_whoosh [FN] -> wp_katana_whoosh",
+      "replace_ids": [
+        14000093824
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_katana_whoosh.ogg"
+    },
+    {
+      "name": "assaultrifle_shoot1 [FN] -> wp_ar_shoot1",
+      "replace_ids": [
+        111386960247596
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_ar_shoot1.ogg"
+    },
+    {
+      "name": "chainsaw_attack3 [FN] -> wp_chainsaw_attack",
+      "replace_ids": [
+        13682898881
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_chainsaw_attack.ogg"
+    },
+    {
+      "name": "chainsaw_attack_whoosh2 [FN] -> wp_chainsaw_whoosh",
+      "replace_ids": [
+        13682223944
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_chainsaw_whoosh.ogg"
+    },
+    {
+      "name": "chainsaw_equip_pull [FN] -> wp_chainsaw_pull_start",
+      "replace_ids": [
+        13645858825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_chainsaw_pull_start.ogg"
+    },
+    {
+      "name": "chainsaw_idle_car [FN] -> wp_chainsaw_idle",
+      "replace_ids": [
+        13646484249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_chainsaw_idle.ogg"
+    },
+    {
+      "name": "medkit_use_bandage_apply [FN] -> wp_medkit_bandage_apply",
+      "replace_ids": [
+        13505411336
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_medkit_bandage_apply.ogg"
+    },
+    {
+      "name": "medkit_use_bandage_rip [FN] -> wp_medkit_bandage_rip",
+      "replace_ids": [
+        13505411414
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_medkit_bandage_rip.ogg"
+    },
+    {
+      "name": "medkit_inspect_spin1 [FN] -> wp_medkit_inspect",
+      "replace_ids": [
+        13456860578
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_medkit_inspect.ogg"
+    },
+    {
+      "name": "shotgun_reload_shell8 [FN] -> wp_shotgun_reload_shell",
+      "replace_ids": [
+        13235979356
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_shotgun_reload_shell.ogg"
+    },
+    {
+      "name": "grenade_pinpull1 [FN] -> wp_grenade_pinpull",
+      "replace_ids": [
+        14522129645
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_grenade_pinpull.ogg"
+    },
+    {
+      "name": "grenade_throw [FN] -> wp_grenade_throw",
+      "replace_ids": [
+        14522189766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_grenade_throw.ogg"
+    },
+    {
+      "name": "rpg_shoot [FN] -> wp_rocket_shoot",
+      "replace_ids": [
+        13455968895
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_rocket_shoot.ogg"
+    },
+    {
+      "name": "knife_attack2 [FN] -> wp_knife_attack",
+      "replace_ids": [
+        13160400909
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_knife_attack.ogg"
+    },
+    {
+      "name": "knife_equip_catch [FN] -> wp_knife_equip",
+      "replace_ids": [
+        13160326139
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_knife_equip.ogg"
+    },
+    {
+      "name": "uzi_shoot_notail1 [FN] -> wp_smg_shoot1",
+      "replace_ids": [
+        16526184730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_smg_shoot1.ogg"
+    },
+    {
+      "name": "uzi_shoot_notail3 [FN] -> wp_smg_shoot2",
+      "replace_ids": [
+        16526184265
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_smg_shoot2.ogg"
+    },
+    {
+      "name": "bow_string_draw [FN] -> wp_bow_draw",
+      "replace_ids": [
+        13682532502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_bow_draw.ogg"
+    },
+    {
+      "name": "bow_reload_draw_arrow [FN] -> wp_bow_draw_arrow",
+      "replace_ids": [
+        13682183816
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_bow_draw_arrow.ogg"
+    },
+    {
+      "name": "crossbow_shoot1 [FN] -> wp_crossbow_shoot",
+      "replace_ids": [
+        82715240396507
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_crossbow_shoot.ogg"
+    },
+    {
+      "name": "scythe_attack1 [FN] -> wp_scythe_attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_scythe_attack1.ogg"
+    },
+    {
+      "name": "scythe_attack2 [FN] -> wp_scythe_attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_scythe_attack2.ogg"
+    },
+    {
+      "name": "minigun_shooting [FN] -> wp_minigun_shoot",
+      "replace_ids": [
+        17246880027
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_minigun_shoot.ogg"
+    },
+    {
+      "name": "minigun_winding4 [FN] -> wp_minigun_winding",
+      "replace_ids": [
+        17251084003
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_minigun_winding.ogg"
+    },
+    {
+      "name": "shotgun_balloonshotgun_squeak [FN] -> wp_misc_squeak",
+      "replace_ids": [
+        17803360572
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_misc_squeak.ogg"
+    },
+    {
+      "name": "flaregun_explosion [FN] -> wp_flaregun_explosion",
+      "replace_ids": [
+        17167035482
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_flaregun_explosion.ogg"
+    },
+    {
+      "name": "flaregun_shoot_distant [FN] -> wp_flaregun_shoot",
+      "replace_ids": [
+        13245117413
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_flaregun_shoot.ogg"
+    },
+    {
+      "name": "raygun_shoot1 [FN] -> wp_raygun_shoot",
+      "replace_ids": [
+        17266070755
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_raygun_shoot.ogg"
+    },
+    {
+      "name": "raygun_explosion [FN] -> wp_raygun_explosion",
+      "replace_ids": [
+        17245106793
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_raygun_explosion.ogg"
+    },
+    {
+      "name": "freezeray_shoot1 [FN] -> wp_freezeray_shoot",
+      "replace_ids": [
+        18429092842
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_freezeray_shoot.ogg"
+    },
+    {
+      "name": "fists_inspect2 [FN] -> wp_fists_inspect",
+      "replace_ids": [
+        13160489311
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_fists_inspect.ogg"
+    },
+    {
+      "name": "warhorn_use1 [FN] -> wp_warhorn_use",
+      "replace_ids": [
+        73325703605178
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_warhorn_use.ogg"
+    },
+    {
+      "name": "energypistols_voidpistols_shoot1 [FN] -> wp_energy_pistol_shoot",
+      "replace_ids": [
+        94684661380385
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_energy_pistol_shoot.ogg"
+    },
+    {
+      "name": "daggers_attack3 [FN] -> wp_dagger_attack",
+      "replace_ids": [
+        101759165907297
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets-fortnite/main/sounds/wp_dagger_attack.ogg"
+    }
+  ]
+}
